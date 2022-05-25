@@ -1,0 +1,23 @@
+beautifulsoup4
+fuzzywuzzy
+gensim
+jupyter
+jupyterlab
+jupyter_nbextensions_configurator
+lckr-jupyterlab-variableinspector
+markdown
+matplotlib
+nbgitpuller
+networkx
+nltk
+numpy
+pandas
+regex
+scipy
+scikit-learn
+# spacy
+textblob
+tweepy
+wikipedia-api
+# wordcloud
+yellowbrick

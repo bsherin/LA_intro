@@ -11,7 +11,8 @@ def load_entire_directory(directory_path):
     for f in files:
         if f[0] != ".":
             file = open(directory_path + '/' + f)
-            corpus[f] = file.read()
+            fname = re.sub("\..*$", "", f)
+            corpus[fname] = file.read()
             file.close()
     return corpus
 
