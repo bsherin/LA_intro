@@ -17,6 +17,7 @@ scipy
 scikit-learn
 # spacy
 textblob
+tk
 tweepy
 wikipedia-api
 # wordcloud
