@@ -1,26 +1,16 @@
 
-# Text Mining 2021 Content Repository
+# LA_intro
 
-## The ways you can work
+## Some ways you can work
 
 * Install an environment on your local computer. ([Instructions](course_documents/install_jupyter_notebook.md))
-* Launch in binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bsherin/text_mining_2021/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fbsherin%252Ftext_mining_content%26urlpath%3Dlab%252Ftree%252Ftext_mining_content%252F%26branch%3Dmain)
-* Work in [tactic](https://tactic.northwestern.edu) ([Instructions](course_documents/getting_started_with_tactic.md))
 
-## Course Documents
-* [Course Outline](course_documents/course_outline.md)
-* [Assignments](course_documents/assignments_summary.md)
+Installing an environment on your local computer is the best way to work, in the long run. If you want to do any projects on your own this is what you should do. However, you can expect to run into problems that will require you to google solutions.
 
-## Readings
-* [Readings](readings/readings.md)
+* Launch in binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bsherin/LA_intro/main)
 
-## Weekly Work
-* Week 1 work is [here](course_documents/week_1_tasks.md)
-* Week 2 work is [here](course_documents/week_2_tasks.md)
-* Week 3 work is [here](course_documents/week_3_tasks.md)
-* Week 4 work is [here](course_documents/week_4_tasks.md)
-* Week 5 work is [here](course_documents/week_5_tasks.md)
-* Week 7 work is [here](course_documents/week_7_tasks.md)
-* Week 8 work is [here](course_documents/week_8_tasks.md)
-* Week 9 work is [here](course_documents/week_9_tasks.md)
-* Week 10 work is [here](course_documents/week_10_tasks.md)
+Using Binder, you can run notebooks on a virtual computer that lives on the internet. This almost always works without any problems (though it can, at times, take a minute or two to launch). This is a good way to go if you just want to play around with the notebooks that I demoed
+
+* Use Tactic Text ([documentation](https://tactic.readthedocs.io/en/latest/index.html))
+
+This is my own more interactive environment. You'll need to ask me for an account.

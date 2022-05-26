@@ -13,17 +13,17 @@ application then type the following. ("cd" means "change directory")
 
 ```
 cd ~
-git clone https://github.com/bsherin/text_mining_2021.git
+git clone https://github.com/bsherin/LSA_intro.git
 ```
 
-When you're done, you should have a new folder named `text_mining_2021`.
+When you're done, you should have a new folder named `LSA_intro`.
 
 ### 2. Create your python virtual environment
 
-Open the Terminal application and `cd` into the `text_mining_2021` folder you just created
+Open the Terminal application and `cd` into the `LSA_intro` folder you just created
 
 ```
-cd ~/text_mining_2021
+cd ~/LSA_intro
 ```
 Then, on a mac, use these commands to create the virtual environment.
 
@@ -43,24 +43,12 @@ venv\Scripts\Activate.ps1 # if you're using PowerShell
 pip install -r requirements.txt
 ```
 
-# Grab weekly files
-
-Each week there will be some new files for you to add to your environment.
-Generally these will be some new notebooks, data corpora, or lists.
-There's no need to use the terminal for these steps.
-
-Go to the top of this page, click on the big green "Code" button and
-then click "Download ZIP".
-
-You'll end up with a folder of files. Take any new files out of that folder
-and drag them into your `text_mining_2021` folder.
-
 # Launch the jupyter notebook or jupyter lab
 
 Go back into your terminal. First `cd` into the text_mining_2021 folder
 
 ```
-cd ~/text_mining_2021
+cd ~/LSA_intro
 ```
 
 Then activate the python virtual environment you created above
@@ -69,11 +57,14 @@ Then activate the python virtual environment you created above
 source venv/bin/activate  # or the Windows version from above
 ```
 
-Finally, start the jupyter lab
+Finally, start the jupyter lab or jupyter notebook
 
 ```
 jupyter lab
 ```
+```
+jupyter notebook
+```
 
 A browser window should magically open with the jupyter lab or notebook.
-You need to keep the terminal window open. If it doesn't, you can enter `http://localhost:8888/lab` in your browser.
+You need to keep the terminal window open. If it doesn't, you can enter `http://localhost:8888/lab` in your browser for jupyter lab or `http://localhost:8888/tree` for the jupyter notebook.
