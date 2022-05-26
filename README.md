@@ -11,6 +11,6 @@ Installing an environment on your local computer is the best way to work, in the
 
 Using Binder, you can run notebooks on a virtual computer that lives on the internet. This almost always works without any problems (though it can, at times, take a minute or two to launch). This is a good way to go if you just want to play around with the notebooks that I demoed
 
-* Tactic Text ([documentation]([https://github.com/bsherin/LA_intro](https://tactic.readthedocs.io/en/latest/index.html))
+* Tactic Text ([documentation](https://tactic.readthedocs.io/en/latest/index.html))
 
 This is my own more interactive environment. You'll need to ask me for an account.
