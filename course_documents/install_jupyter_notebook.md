@@ -1,4 +1,4 @@
-# Installing Jupyter Lab
+# Installing on your local computer
 
 This can be an iffy process, but you should only have to do it once.
 
